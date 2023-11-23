@@ -1,0 +1,26 @@
+.feedbackBtn {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.btn {
+  padding: 16px 32px;
+  border-radius: 8px;
+  background: #4d5ae5;
+  outline: none;
+  border: none;
+
+  color: #fff;
+
+  /* Button Text */
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.64px;
+}
+.btn:hover,
+.btn:focus {
+  background: #404bbf;
+}
